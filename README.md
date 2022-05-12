@@ -8,4 +8,4 @@ Gra toczy się w małym prostkokącie, a pod spodem wyświetla się nasz aktualn
 
 ## Komunikat po przegraniu 
 Po przegraniu ukazuje nam się komunikat w którym mozemy przeczytać napis "Game over" oraz zobaczyć jaki wynik ostatecznie udało nam się uzyskać.
-![image](https://user-images.githubusercontent.com/77391158/167967001-d8dca060-c484-4e9d-87d5-14165181ba49.png)
+![image](https://user-images.githubusercontent.com/77391158/167967062-6860e52d-97fe-4491-be0a-1d18988207bb.png)
