@@ -5,3 +5,7 @@ Została ona zainspirowana grą Dinozaur w Google Chrome w którą, możemy zagr
 ## Wygląd gry
 Gra toczy się w małym prostkokącie, a pod spodem wyświetla się nasz aktualny wynik.
 ![image](https://user-images.githubusercontent.com/77391158/167966882-e91d549b-42c5-4c74-8a09-eb26d0c33a9b.png)
+
+## Komunikat po przegraniu 
+Po przegraniu ukazuje nam się komunikat w którym mozemy przeczytać napis "Game over" oraz zobaczyć jaki wynik ostatecznie udało nam się uzyskać.
+![image](https://user-images.githubusercontent.com/77391158/167967001-d8dca060-c484-4e9d-87d5-14165181ba49.png)
